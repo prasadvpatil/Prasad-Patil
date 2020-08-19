@@ -10,6 +10,4 @@
 
 <p><img src="https://komarev.com/ghpvc/?username=prasadvpatil" alt="counter" /></p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prasadvpatil)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-
 ---
